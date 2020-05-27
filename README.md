@@ -1,4 +1,4 @@
-# alecdy.github.io
+# alec.dyliac.co
 This is my site hosted on Github Pages.  The theme I used is called "Millenial" by Paul Le.  Please check it out below.
 
 ## Millenial Theme
